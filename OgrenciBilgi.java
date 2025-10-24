@@ -1,3 +1,11 @@
+//Ad Soyad: Enes Zukra
+//Ogrenci No: 250541616
+//Tarih: 24/10/2025
+//Kullanicidan ogrencinin adı, soyadı,
+//ogrenci numarası, yasi ve GPA (not ortalamasi) bilgilerini alir
+//ve bu bilgilere göre ogrencinin basarili ya da basarisiz oldugunu belirler.
+  
+
 import java.util.Scanner;
 
 public class OgrenciBilgi {
