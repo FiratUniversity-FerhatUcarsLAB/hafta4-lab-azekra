@@ -1,10 +1,10 @@
 
-  // Ad Soyad: Enes Zukra
-  // Ogrenci No: 250541616
- //  Tarih: 24/10/2025
+// Ad Soyad: Enes Zukra
+// Ogrenci No: 250541616
+// Tarih: 24/10/2025
   
-  // Kullanicidan bir yaricap (r) alir ve bu degere gore
-  // daire ve kure ile ilgili geometrik hesaplamalari yaparak sonuclari formatli sekilde ekrana yazdirir.
+// Kullanicidan bir yaricap (r) alir ve bu degere gore
+// daire ve kure ile ilgili geometrik hesaplamalari yaparak sonuclari formatli sekilde ekrana yazdirir.
   
 
 import java.util.Scanner;
