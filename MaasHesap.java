@@ -2,13 +2,11 @@
 // Ogrenci No: 250541616
 // Tarih: 24/10/2025
 
-/* alisanin kisisel bilgileri, brut maasi, mesai 
-   saatleri gibi verileri alir ve
-     gelirler, kesintiler, net maas ile birlikte 
-       istatistiksel analizler yaparak formatli bir bordro ciktisi uretir.
-  */
-
-
+//alisanin kisisel bilgileri, brut maasi, mesai 
+//saatleri gibi verileri alir ve
+//gelirler, kesintiler, net maas ile birlikte 
+//istatistiksel analizler yaparak formatli bir bordro ciktisi uretir.
+  
 
 import java.util.Scanner;
 
