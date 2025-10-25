@@ -45,11 +45,10 @@ public class OgrenciBilgi {
         if (gpa >= BASARI_SINIRI) {
             System.out.println("Durum: Basarili Ogrenci");
         } else {
-            System.out.println("Durum: Gelistirilmesi Gereken Ogrenci");
+            System.out.println("Durum: Basarisiz Ogrenci");
         }
         
        
         input.close();
     }
 }
-
