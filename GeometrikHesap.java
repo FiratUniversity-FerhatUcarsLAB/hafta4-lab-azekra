@@ -2,7 +2,7 @@
 * Ad Soyad: ENES ZUKRA
 * Ogrenci No: 250541616
 * Tarih: 25/10/2025
-* Aciklama:  Öğrenci Bilgi Sistemi
+* Aciklama: GeometrikHesap
 */
 
 import java.util.Scanner;
