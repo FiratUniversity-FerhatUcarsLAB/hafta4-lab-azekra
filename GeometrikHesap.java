@@ -5,9 +5,6 @@
 * Aciklama: [ Geometrik Hesaplayıcı ]
 */
 
-
-
-
 import java.util.Scanner;
 
 public class GeometrikHesap {
