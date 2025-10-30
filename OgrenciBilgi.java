@@ -5,6 +5,7 @@
 * Aciklama: [öğrenci Bilgi Sistemi]
 */
 
+
 import java.util.Scanner;
 //bilgileri alan scanner sınıfını programımımza ithal ediyoruz
 public class OgrenciBilgi {
