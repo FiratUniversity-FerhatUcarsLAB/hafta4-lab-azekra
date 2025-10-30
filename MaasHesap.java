@@ -5,6 +5,7 @@
 * Aciklama: [  Maaş Hesaplama Sistemi ]
 */
 
+
 import java.util.Scanner;
 
 public class MaasHesap {
