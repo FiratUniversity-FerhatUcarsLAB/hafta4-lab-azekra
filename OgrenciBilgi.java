@@ -7,7 +7,7 @@
 
 
 import java.util.Scanner;
-//bilgileri alan scanner sınıfını programımımza ithal ediyoruz
+//bilgileri alan scanneri programımımza ithal ediyoruz
 public class OgrenciBilgi {
     
     public static void main(String[] args) {
